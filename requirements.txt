@@ -1,2 +1,2 @@
-Pillow==3.4.2
+Pillow==6.2.0
 cx_Freeze==5.0
